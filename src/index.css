@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.contact {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5vh;
+
+}
+.img {
+    width: 50vw;
+
+}
+
+.input {
+    width: 15vw;
+}
+.text {
+    width: 15vw;
+}
+.baslik {
+    width: 45vw;
+}
